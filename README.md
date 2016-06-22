@@ -4,7 +4,6 @@
 
 ##### [Artificial Intelligence](https://www.hackerrank.com/domains/ai/ai-introduction)
 * [Conway's Game of Life](https://www.hackerrank.com/challenges/conway)
-* 
 
 ##### 'Pacman'/ Pathfinding 
 ###### In this game, PacMan is positioned in a grid. PacMan has to find the food several different search algorithms. 
