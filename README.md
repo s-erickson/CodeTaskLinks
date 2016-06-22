@@ -6,7 +6,8 @@
 * [Conway's Game of Life](https://www.hackerrank.com/challenges/conway)
 * 
 
-##### 'Pacman'/ Pathfinding - In this game, PacMan is positioned in a grid. PacMan has to find the food several different search algorithms. 
+##### 'Pacman'/ Pathfinding 
+###### In this game, PacMan is positioned in a grid. PacMan has to find the food several different search algorithms. 
 * [Pacman Bredth First Search](https://www.hackerrank.com/challenges/pacman-bfs)
 * [Pacman Depth First Search](https://www.hackerrank.com/challenges/pacman-dfs)
 * [Pacman Uniform Cost Search](https://www.hackerrank.com/challenges/pacman-ucs)
